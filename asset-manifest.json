@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/edunomics/static/css/main.af4f013a.chunk.css",
+    "main.js": "/edunomics/static/js/main.d6626b29.chunk.js",
+    "main.js.map": "/edunomics/static/js/main.d6626b29.chunk.js.map",
+    "runtime-main.js": "/edunomics/static/js/runtime-main.b45697df.js",
+    "runtime-main.js.map": "/edunomics/static/js/runtime-main.b45697df.js.map",
+    "static/js/2.15d756e4.chunk.js": "/edunomics/static/js/2.15d756e4.chunk.js",
+    "static/js/2.15d756e4.chunk.js.map": "/edunomics/static/js/2.15d756e4.chunk.js.map",
+    "index.html": "/edunomics/index.html",
+    "precache-manifest.1f804ecc8e6d2f15bb7bb864909887f1.js": "/edunomics/precache-manifest.1f804ecc8e6d2f15bb7bb864909887f1.js",
+    "service-worker.js": "/edunomics/service-worker.js",
+    "static/css/main.af4f013a.chunk.css.map": "/edunomics/static/css/main.af4f013a.chunk.css.map",
+    "static/js/2.15d756e4.chunk.js.LICENSE.txt": "/edunomics/static/js/2.15d756e4.chunk.js.LICENSE.txt",
+    "static/media/icon1.svg": "/edunomics/static/media/icon1.a1861ba5.svg",
+    "static/media/icon2.svg": "/edunomics/static/media/icon2.572c14d7.svg",
+    "static/media/icon3.svg": "/edunomics/static/media/icon3.8263cfbc.svg",
+    "static/media/intro-illustration_qneuer.svg": "/edunomics/static/media/intro-illustration_qneuer.7f041395.svg",
+    "static/media/logo.svg": "/edunomics/static/media/logo.fb1798c6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b45697df.js",
+    "static/js/2.15d756e4.chunk.js",
+    "static/css/main.af4f013a.chunk.css",
+    "static/js/main.d6626b29.chunk.js"
+  ]
+}
