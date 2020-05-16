@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/edunomics/static/css/main.af4f013a.chunk.css",
-    "main.js": "/edunomics/static/js/main.d6626b29.chunk.js",
-    "main.js.map": "/edunomics/static/js/main.d6626b29.chunk.js.map",
+    "main.js": "/edunomics/static/js/main.f1763c18.chunk.js",
+    "main.js.map": "/edunomics/static/js/main.f1763c18.chunk.js.map",
     "runtime-main.js": "/edunomics/static/js/runtime-main.b45697df.js",
     "runtime-main.js.map": "/edunomics/static/js/runtime-main.b45697df.js.map",
     "static/js/2.15d756e4.chunk.js": "/edunomics/static/js/2.15d756e4.chunk.js",
     "static/js/2.15d756e4.chunk.js.map": "/edunomics/static/js/2.15d756e4.chunk.js.map",
     "index.html": "/edunomics/index.html",
-    "precache-manifest.1f804ecc8e6d2f15bb7bb864909887f1.js": "/edunomics/precache-manifest.1f804ecc8e6d2f15bb7bb864909887f1.js",
+    "precache-manifest.bc02bd22a2934015c4434615be45bceb.js": "/edunomics/precache-manifest.bc02bd22a2934015c4434615be45bceb.js",
     "service-worker.js": "/edunomics/service-worker.js",
     "static/css/main.af4f013a.chunk.css.map": "/edunomics/static/css/main.af4f013a.chunk.css.map",
     "static/js/2.15d756e4.chunk.js.LICENSE.txt": "/edunomics/static/js/2.15d756e4.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.b45697df.js",
     "static/js/2.15d756e4.chunk.js",
     "static/css/main.af4f013a.chunk.css",
-    "static/js/main.d6626b29.chunk.js"
+    "static/js/main.f1763c18.chunk.js"
   ]
 }
